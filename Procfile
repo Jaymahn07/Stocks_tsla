@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run Tesla_stocks.py
+web: sh setup.sh && streamlit run Tesla_stock.py
 
